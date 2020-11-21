@@ -11,4 +11,5 @@ tags:
   - rpg
 ---
 ![flavor wheel](/img/Diacom.jpg)
-![flavor wheel](/img/Diacom.jpg)
+![chemex](/img/chemex.jpg)
+![coffee](/img/coffee.png)
