@@ -7,5 +7,8 @@ featuredpost: true
 featuredimage: /img/diacom.jpg
 tags:
   - ui
+  - game
+  - rpg
 ---
-[image]()
+![flavor wheel](/img/Diacom.jpg)
+![flavor wheel](/img/Diacom.jpg)
